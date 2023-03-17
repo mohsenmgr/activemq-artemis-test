@@ -1,0 +1,45 @@
+https://activemq.apache.org/components/artemis/download/past_releases
+
+
+
+Setup ActiveMQ Artemis on Ubuntu: https://medium.com/@hasnat.saeed/setup-activemq-artemis-on-ubuntu-18-04-76bb4975308b
+
+
+
+Creating a broker in ActiveMQ Artemis: https://medium.com/@joelicious/creating-a-broker-in-activemq-artemis-cb553e9ff9aa
+
+
+How to enable SSL in ActiveMQ Artemis for MQTT Protocol: https://stackoverflow.com/questions/63775267/how-to-enable-ssl-in-activemq-artemis-for-mqtt-protocol-based-on-keystore-and-tr
+
+
+ActiveMQ MQTT: https://activemq.apache.org/mqtt
+
+
+How do I use SSL - ActiveMQ : https://medium.com/@rajithacharith/how-do-i-use-ssl-activemq-2655c7fd9c6
+
+How to use ACTIVEMQ SSL: https://activemq.apache.org/how-do-i-use-ssl
+
+
+Avoid Multicast: https://activemq.apache.org/multicast-watch-out-for-ipv6-vs-ipv4-support-on-your-operating-system-or-distribution-or-network
+
+
+Getting Started with ActiveMQ: https://activemq.apache.org/getting-started
+
+installation ActiveMQ: https://www.vultr.com/docs/install-apache-activemq-on-ubuntu-20-04/
+
+
+Connection to ActiveMQ over SSL: https://www.ibm.com/docs/en/netcoolomnibus/8?topic=transport-connecting-activemq-using-ssl
+
+https://www.netiq.com/documentation/identity-manager-47-drivers/jdbc_fanout/data/how-to-enable-ssl-for-activemq.html
+
+
+---------------------
+Mosquitto Broker:
+
+https://primalcortex.wordpress.com/2016/11/08/mqtt-mosquitto-broker-client-authentication-and-client-certificates/
+
+http://www.steves-internet-guide.com/mosquitto-tls/
+
+
+
+
