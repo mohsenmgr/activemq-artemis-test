@@ -1,0 +1,4 @@
+sudo tail -f /var/lib/my-broker/log/artemis.log
+
+
+sudo journalctl -fu artemis
